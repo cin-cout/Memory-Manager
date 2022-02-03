@@ -1,7 +1,7 @@
 # Memory-Manager
 
-Implement the memory management, including page table, TLB, Disk, frame, by 6 kinds of algorithms which you can set by yourself.
-．
+Implement the memory management, including page table, TLB, Disk, frame, by 6 kinds of algorithms(see below) which you can set by yourself.
+
 ## Build the Project
 * Install githook and compile output file ```MemManager```
 ```
